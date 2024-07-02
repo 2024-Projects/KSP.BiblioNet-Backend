@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\bin\Debug\net8.0\KSP.BiblioNet.Domain.deps.json
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\bin\Debug\net8.0\KSP.BiblioNet.Domain.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\bin\Debug\net8.0\KSP.BiblioNet.Domain.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\refint\KSP.BiblioNet.Domain.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\KSP.BiblioNet.Domain.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Domain\obj\Debug\net8.0\ref\KSP.BiblioNet.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Persistence.deps.json
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Persistence.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Persistence.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Application.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Domain.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Application.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\bin\Debug\net8.0\KSP.BiblioNet.Domain.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.AssemblyInfo.cs
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.Bibl.ED492C04.Up2Date
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\refint\KSP.BiblioNet.Persistence.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\KSP.BiblioNet.Persistence.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Persistence\obj\Debug\net8.0\ref\KSP.BiblioNet.Persistence.dll

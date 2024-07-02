@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\bin\Debug\net8.0\KSP.BiblioNet.Common.deps.json
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\bin\Debug\net8.0\KSP.BiblioNet.Common.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\bin\Debug\net8.0\KSP.BiblioNet.Common.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.AssemblyInfo.cs
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\refint\KSP.BiblioNet.Common.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\KSP.BiblioNet.Common.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.Common\obj\Debug\net8.0\ref\KSP.BiblioNet.Common.dll
