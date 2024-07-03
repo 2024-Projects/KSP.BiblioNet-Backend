@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\bin\Debug\net8.0\KSP.BiblioNet.External.deps.json
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\bin\Debug\net8.0\KSP.BiblioNet.External.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\bin\Debug\net8.0\KSP.BiblioNet.External.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.AssemblyInfo.cs
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\refint\KSP.BiblioNet.External.dll
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\KSP.BiblioNet.External.pdb
+C:\Users\DELL\source\repos\KSP.BiblioNet\src\KSP.BiblioNet.External\obj\Debug\net8.0\ref\KSP.BiblioNet.External.dll

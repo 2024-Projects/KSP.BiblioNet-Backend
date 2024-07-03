@@ -1,0 +1,6 @@
+@KSP.BiblioNet.Api_HostAddress = http://localhost:5249
+
+GET {{KSP.BiblioNet.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

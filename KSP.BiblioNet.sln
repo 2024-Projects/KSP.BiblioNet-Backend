@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D762A84D-FC57-412D-A43C-C25556F80576}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{6E3FF5E7-8932-4CB7-8BA4-00C1D247FFCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{56EE21E4-781E-44B6-A510-6FFBA12F554A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{ECEBA661-EB5A-4A5A-9025-CB5137B17856}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9F80264F-248D-4A38-B038-E1D05CB2ED9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Api", "src\KSP.BiblioNet.Api\KSP.BiblioNet.Api.csproj", "{A79642AE-DB90-457B-B5A0-3E50F5BB4121}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Domain", "src\KSP.BiblioNet.Domain\KSP.BiblioNet.Domain.csproj", "{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Application", "src\KSP.BiblioNet.Application\KSP.BiblioNet.Application.csproj", "{28AEA97B-0DA6-48BA-B357-EFEA39848D3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Persistence", "src\KSP.BiblioNet.Persistence\KSP.BiblioNet.Persistence.csproj", "{DF6A1B4B-E379-4B2C-AFD8-696702639ACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.External", "src\KSP.BiblioNet.External\KSP.BiblioNet.External.csproj", "{277C149E-A478-4787-9AFA-147602E780A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Common", "src\KSP.BiblioNet.Common\KSP.BiblioNet.Common.csproj", "{5625478F-2CFF-4DB5-A88B-E840D5C8A70B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A8A7193C-66B2-41E9-A471-1BA1CF0B7C8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KSP.BiblioNet.Tests", "test\KSP.BiblioNet.Tests\KSP.BiblioNet.Tests.csproj", "{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{2627DDD9-10A7-49BD-A700-8D2C248AA2A8}"
+	ProjectSection(SolutionItems) = preProject
+		API's KSP BiblioNet.postman_collection.json = API's KSP BiblioNet.postman_collection.json
+		CREAR-POBLAR-BD_v1.0.0.sql = CREAR-POBLAR-BD_v1.0.0.sql
+		docker-compose.yml = docker-compose.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79642AE-DB90-457B-B5A0-3E50F5BB4121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79642AE-DB90-457B-B5A0-3E50F5BB4121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79642AE-DB90-457B-B5A0-3E50F5BB4121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79642AE-DB90-457B-B5A0-3E50F5BB4121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AEA97B-0DA6-48BA-B357-EFEA39848D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AEA97B-0DA6-48BA-B357-EFEA39848D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AEA97B-0DA6-48BA-B357-EFEA39848D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AEA97B-0DA6-48BA-B357-EFEA39848D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6A1B4B-E379-4B2C-AFD8-696702639ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6A1B4B-E379-4B2C-AFD8-696702639ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6A1B4B-E379-4B2C-AFD8-696702639ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6A1B4B-E379-4B2C-AFD8-696702639ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277C149E-A478-4787-9AFA-147602E780A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277C149E-A478-4787-9AFA-147602E780A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277C149E-A478-4787-9AFA-147602E780A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277C149E-A478-4787-9AFA-147602E780A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5625478F-2CFF-4DB5-A88B-E840D5C8A70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5625478F-2CFF-4DB5-A88B-E840D5C8A70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5625478F-2CFF-4DB5-A88B-E840D5C8A70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5625478F-2CFF-4DB5-A88B-E840D5C8A70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E3FF5E7-8932-4CB7-8BA4-00C1D247FFCF} = {D762A84D-FC57-412D-A43C-C25556F80576}
+		{56EE21E4-781E-44B6-A510-6FFBA12F554A} = {D762A84D-FC57-412D-A43C-C25556F80576}
+		{ECEBA661-EB5A-4A5A-9025-CB5137B17856} = {D762A84D-FC57-412D-A43C-C25556F80576}
+		{9F80264F-248D-4A38-B038-E1D05CB2ED9A} = {D762A84D-FC57-412D-A43C-C25556F80576}
+		{A79642AE-DB90-457B-B5A0-3E50F5BB4121} = {6E3FF5E7-8932-4CB7-8BA4-00C1D247FFCF}
+		{38425ED9-E80B-43D4-BA86-6DD08D7ADBC4} = {56EE21E4-781E-44B6-A510-6FFBA12F554A}
+		{28AEA97B-0DA6-48BA-B357-EFEA39848D3A} = {56EE21E4-781E-44B6-A510-6FFBA12F554A}
+		{DF6A1B4B-E379-4B2C-AFD8-696702639ACD} = {ECEBA661-EB5A-4A5A-9025-CB5137B17856}
+		{277C149E-A478-4787-9AFA-147602E780A6} = {ECEBA661-EB5A-4A5A-9025-CB5137B17856}
+		{5625478F-2CFF-4DB5-A88B-E840D5C8A70B} = {9F80264F-248D-4A38-B038-E1D05CB2ED9A}
+		{EFD9AE16-DC9F-41CE-8566-54AE1A72F57B} = {A8A7193C-66B2-41E9-A471-1BA1CF0B7C8A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFA9430-0C45-4705-A34B-30EBAE728937}
+	EndGlobalSection
+EndGlobal

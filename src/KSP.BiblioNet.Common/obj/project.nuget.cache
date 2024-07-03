@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRfE6kbjRf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\KSP.BiblioNet\\src\\KSP.BiblioNet.Common\\KSP.BiblioNet.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
